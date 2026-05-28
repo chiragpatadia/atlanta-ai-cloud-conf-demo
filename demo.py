@@ -275,5 +275,5 @@ if __name__ == "__main__":
 
   {CYAN}{BOLD}Same data. Same AI agent. Completely different risk profile.{RESET}
 
-  {DIM}Full code at: github.com/chiragpatadia  (add your repo before the talk!){RESET}
+  {DIM}Full code at: https://github.com/chiragpatadia/atlanta-ai-cloud-conf-demo {RESET}
     """)
